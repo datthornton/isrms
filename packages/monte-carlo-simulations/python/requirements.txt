@@ -1,0 +1,2 @@
+# Install the package itself (dependencies declared in pyproject.toml)
+-e .
